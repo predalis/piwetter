@@ -1,0 +1,12 @@
+var m ={
+  "RainIntensity": "1023", 
+  "LightIntensity": "464", 
+  "Barometer": "980.95", 
+  "Temperature1": "29.00", 
+  "Date": "2016:06:24", 
+  "Temperature2": "28.30", 
+  "Altitude": "272.37", 
+  "Time": "10:32:02", 
+  "WindDirection": "284.36", 
+  "Humidity": "37.00"
+}
